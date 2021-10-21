@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;labPolymorphism&apos; to &apos;1410_LABS&apos;" description="Move &apos;labPolymorphism&apos; to &apos;1410_LABS&apos;" destination="/1410_LABS" element1="/sandbox/labPolymorphism" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1632604117602" updateReferences="true"/>
+</session>
