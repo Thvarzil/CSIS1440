@@ -104,6 +104,7 @@
 		<item key="JarManifestWizardPage.MANIFEST_LOCATION" value=""/>
 		<item key="JarManifestWizardPage.SEAL_JAR" value="false"/>
 		<list key="JarPackageWizardPage.DESTINATION_NAMES_ID">
+			<item value="/Users/anarion/Desktop/School/Fa2021/CSIS1410/workspace/RedCounter.jar"/>
 			<item value="/Users/anarion/Desktop/School/Fa2021/CSIS1410/workspace/Module02Test.jar"/>
 			<item value="/Users/anarion/Desktop/School/Fa2021/CSIS1410/workspace/Interfaces.jar"/>
 			<item value="/Users/anarion/Desktop/School/Fa2021/CSIS1410/workspace/InheritancePolymorphism.jar"/>
